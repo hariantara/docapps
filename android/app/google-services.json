@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1018526101899",
+    "firebase_url": "https://doctor-eac29.firebaseio.com",
+    "project_id": "doctor-eac29",
+    "storage_bucket": "doctor-eac29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018526101899:android:86725fc8151cf91d",
+        "android_client_info": {
+          "package_name": "com.docapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018526101899-i3o22drnmrqo5o703do9a9qacskg15b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oF-OgeW_mStxFlRsD4C0zfdYWmzRkiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
